@@ -1,0 +1,16 @@
+C:\Users\sha pc\Desktop\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.exe
+C:\Users\sha pc\Desktop\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.deps.json
+C:\Users\sha pc\Desktop\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.runtimeconfig.json
+C:\Users\sha pc\Desktop\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.runtimeconfig.dev.json
+C:\Users\sha pc\Desktop\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.dll
+C:\Users\sha pc\Desktop\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.pdb
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.csproj.AssemblyReference.cache
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.Form1.resources
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.csproj.GenerateResource.cache
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.AssemblyInfoInputs.cache
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.AssemblyInfo.cs
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.dll
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.pdb
+C:\Users\sha pc\Desktop\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.genruntimeconfig.cache
